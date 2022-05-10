@@ -7,6 +7,10 @@ function obtenerMayor(x, y) {
   // Tu código:
 }
 
+function guillito(nombres){
+  // para agregar a gitHub
+}
+
 function mayoriaDeEdad(edad) {
   //Determinar si la persona según su edad puede ingresar a un evento.
   //Si tiene 18 años ó más, devolver --> "Allowed"
